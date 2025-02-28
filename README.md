@@ -24,6 +24,14 @@ Feel free to talk to me about:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="25" alt="cplusplus logo"/>
 * XML
 * Software development and frameworks such as Maven, Spring Boot, Vue.js, Node.js, Flutter and many more ✨
+
+## Hobbies ⋆.˚🦋༘⋆
+* Gaming (Shooter games, MMORPGs, RPGs) 🎮
+* Piano 🎼🎹
+* Streaming on Twitch 🌸
+* Gym 🏋
+* Cats (I have two cats myself!) 🐾
+* Travelling ✈
   
 
 
