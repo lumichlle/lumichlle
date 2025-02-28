@@ -12,18 +12,15 @@
 
 ## 🪄 Coding Expertise
 Feel free to talk to me about:
-* Java 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-* Frontend development using HTML/JavaScript/CSS 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-* C++
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
+* Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"/>
+* C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"/>
+* SQL (postgresql, mysql)
+* Frontend development using HTML/JavaScript/CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"/>
 * Microservices
 * LeetCode
-* Docker
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="25" alt="cplusplus logo"/>
-* XML
-* Software development and frameworks such as Maven, Spring Boot, Vue.js, Node.js, Flutter and many more ✨
+* Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="25" alt="cplusplus logo"/>
+* XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="25" alt="cplusplus logo"/>
+* Software development, frameworks and architectural styles such as REST APIs, Maven, Spring Boot, Vue.js, Node.js, Flutter and many more ✨
 
 ## Hobbies ⋆.˚🦋༘⋆
 * Gaming (Shooter games, MMORPGs, RPGs) 🎮
