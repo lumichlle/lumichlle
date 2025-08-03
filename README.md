@@ -7,7 +7,10 @@
 
 * ✨ I am 24 years old and love to explore and learn new things
 * 📚 I'm currently studying <a href="https://informatics.tuwien.ac.at/master/software-engineering-and-internet-computing/">Software Engineering and Internet Computing</a> at the Vienna University of Technology 
-* 🎯 Goals: ~~Working hard so my cats can live a better life~~ Finishing my Master of Science and hone my skills in computer science
+* 🎯 Goals:
+  * Finishing my Master of Science and hone my skills in computer science
+  * Staying inspired and motivated
+  * Working hard so my cats can live a better life 🐱
 
 
 ## 🪄 Coding Expertise
