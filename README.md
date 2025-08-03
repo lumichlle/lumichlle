@@ -14,7 +14,8 @@
 Feel free to talk to me about:
 * Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"/>
 * C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"/>
-* SQL (postgresql, mysql)
+* Python
+* SQL 
 * Frontend development using HTML/JavaScript/CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"/>
 * Microservices
 * LeetCode
@@ -25,8 +26,8 @@ Feel free to talk to me about:
 ## Hobbies ⋆.˚🦋༘⋆
 * Gaming (Shooter games, MMORPGs, RPGs) 🎮
 * Piano 🎼🎹
+* Digital Art 🎨
 * Streaming on Twitch 🌸
-* Gym 🏋
 * Cats (I have two cats myself!) 🐾
 * Travelling ✈
   
