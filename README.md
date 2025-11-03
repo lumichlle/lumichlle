@@ -6,31 +6,26 @@
 ## 👩🏻‍💻 About me
 
 * ✨ I am 24 years old and love to explore and learn new things
-* 📚 I'm currently studying <a href="https://informatics.tuwien.ac.at/master/software-engineering-and-internet-computing/">Software Engineering and Internet Computing</a> at the Vienna University of Technology 
+* 📚 I'm currently studying <a href="https://informatics.tuwien.ac.at/master/software-engineering/">Software Engineering</a> at the Vienna University of Technology 
 * 🎯 Goals:
-  * Finishing my Master of Science and hone my skills in computer science
+  * Finishing my studies as a Software Engineer
   * Staying inspired and motivated
   * Working hard so my cats can live a better life 🐱
 
 
 ## 🪄 Coding Expertise
 Feel free to talk to me about:
-* Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"/>
-* C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"/>
-* Python
-* SQL 
-* Frontend development using HTML/JavaScript/CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"/>
-* Microservices
+* Programming Languages (I especially like Java!) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"/>
+* Frontend development + frameworks like Vue.js or Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"/>
 * LeetCode
-* Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="25" alt="cplusplus logo"/>
-* XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="25" alt="cplusplus logo"/>
-* Software development, frameworks and architectural styles such as REST APIs, Maven, Spring Boot, Vue.js, Node.js, Flutter and many more ✨
+* SQL 
+* Software development, frameworks and architectural styles such as REST APIs, Spring Boot, Node.js and many more ✨
 
 ## Hobbies ⋆.˚🦋༘⋆
 * Gaming (Shooter games, MMORPGs, RPGs) 🎮
 * Piano 🎼🎹
 * Digital Art 🎨
-* Streaming on Twitch 🌸
+* Streaming 🌸
 * Cats (I have two cats myself!) 🐾
 * Travelling ✈
   
