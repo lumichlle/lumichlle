@@ -5,7 +5,7 @@
 
 ## 👩🏻‍💻 About me
 
-* ✨ I am 24 years old and love to explore and learn new things
+* ✨ I am 25 years old and love to explore and learn new things
 * 📚 I'm currently studying <a href="https://informatics.tuwien.ac.at/master/software-engineering/">Software Engineering</a> at the Vienna University of Technology 
 * 🎯 Goals:
   * Finishing my studies as a Software Engineer
